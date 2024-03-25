@@ -120,7 +120,7 @@ def banner():
                                                       
 )══════════════════════════════════════════
 (!) Author   : SH3RRY 
-(!) Guthub   : SHERRY12
+(!) Guthub   : SHERRY
 (!) Facebook : SHERRY
 (!) Type     : FREE
 \033[1;37m(!)══════════════════════════════════════════"""%(P))
